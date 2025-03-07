@@ -5,9 +5,9 @@ I'm  passionate about __Machine Learning__, __Data Science__, __Data Analysis__ 
 I love exploring how AI can solve real-world problems and create new possibilities. Always excited to learn and share cool projects!
 
 <h2> 🚀👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
-* *📍Location: Dearborn, Michigan, USA*
-* *🎓 Education: Master's in Data Science, University of Michigan*
-* *💼 Currently working on: Research in Deep Learning for Medical Diagnostics*
+📍Location: Dearborn, Michigan, USA
+🎓 Education: Master's in Data Science, University of Michigan
+💼 Currently working on: Research in Deep Learning for Medical Diagnostics
 
 I have 3.5 + years of experience specializing in predictive modeling, automation, and deep learning.
 
