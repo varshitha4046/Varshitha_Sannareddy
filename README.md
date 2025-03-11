@@ -14,7 +14,7 @@ I have 3.5 + years of experience specializing in predictive modeling, automation
 Passionate about extracting insights from data, building scalable solutions, and leveraging AI for impactful applications. 
 
 
-🔭 Some of the notable Certifications I have completed and that helped in gaining strong theoretical foundation include: 
+<h3>🔭 Some of the notable Certifications I have completed and that helped in gaining strong theoretical foundation include: </h3>
 * *Data Science with Python – Devspark & Microsoft Collaboration*
 * *Python Certification – HackerRank, Cisco*
 * *AWS Certification – EduSkills*
